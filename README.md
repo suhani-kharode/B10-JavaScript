@@ -1,4 +1,5 @@
 JavaScript Cart Quantity Practice 🛒
+
 📌 Project Description
 
 This is a beginner-friendly JavaScript practice project that demonstrates basic HTML, CSS, and JavaScript concepts. 
